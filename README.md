@@ -1,2 +1,0 @@
-# tanz-shop
-Tanz shop
